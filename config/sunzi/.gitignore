@@ -1,0 +1,5 @@
+/compiled
+
+# Ignore sensitive data
+sunzi.yml
+files/deploy_key
