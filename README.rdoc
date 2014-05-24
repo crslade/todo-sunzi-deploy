@@ -1,28 +1,12 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Watch the video: https://www.youtube.com/watch?v=S1iTmfnKS7Q
 
-Things you may want to cover:
+Get the Sunzi Template: https://github.com/crslade/sunzi-recipes
+Get the Capistrano Template (from Ben Dixon): https://github.com/TalkingQuickly/capistrano-3-rails-template
 
-* Ruby version
+=== Resources
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Ben Dixon's Capistrano [guide](http://www.talkingquickly.co.uk/2014/01/deploying-rails-apps-to-a-vps-with-capistrano-v3/).
+* [Sunzi](https://github.com/kenn/sunzi)
+* [Capistrano](http://capistranorb.com/)
