@@ -1,5 +1,7 @@
 # README
 
+This repository has been archived.
+
 Watch the video: https://www.youtube.com/watch?v=S1iTmfnKS7Q
 
 Get the Sunzi Template: https://github.com/crslade/sunzi-recipes
